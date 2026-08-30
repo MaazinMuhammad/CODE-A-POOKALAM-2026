@@ -12,7 +12,7 @@
 This pookalam blends sharp geometric structure with flowing floral rings — angular shapes anchor the design while curved petal layers soften it, giving the piece a look that's part traditional carpet, part modern pattern art. Built entirely in Joy, using rotation and repetition to construct the layers from the center outward.
 
 ### Preview
-![My Pookalam](preview pookalm.png)
+![My Pookalam](pookalam-preview.png)
 
 ### Features
 - Combination of geometric and floral elements in one composition
